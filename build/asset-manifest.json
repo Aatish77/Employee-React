@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aatish77/Employee-React.git/static/css/main.bfff504d.css",
+    "main.js": "/Aatish77/Employee-React.git/static/js/main.05f0509e.js",
+    "static/js/787.64768f80.chunk.js": "/Aatish77/Employee-React.git/static/js/787.64768f80.chunk.js",
+    "index.html": "/Aatish77/Employee-React.git/index.html",
+    "main.bfff504d.css.map": "/Aatish77/Employee-React.git/static/css/main.bfff504d.css.map",
+    "main.05f0509e.js.map": "/Aatish77/Employee-React.git/static/js/main.05f0509e.js.map",
+    "787.64768f80.chunk.js.map": "/Aatish77/Employee-React.git/static/js/787.64768f80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfff504d.css",
+    "static/js/main.05f0509e.js"
+  ]
+}
